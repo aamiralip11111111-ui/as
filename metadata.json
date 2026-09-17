@@ -1,0 +1,6 @@
+{
+  "name": "MEXC Millisecond Scalper Bot",
+  "description": "Ultra-fast millisecond high-frequency scalper bot for MEXC Futures with multi-penny coin engine, 20k trades/15m ultra pacing, exact 0.02% real fee math, $0.0004 micro-profit exits, and sub-human eye orderbook detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
